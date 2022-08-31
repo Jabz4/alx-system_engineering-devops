@@ -1,1 +1,1 @@
-list content directory
+long format display
