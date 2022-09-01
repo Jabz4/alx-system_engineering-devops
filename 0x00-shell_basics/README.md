@@ -1,1 +1,1 @@
-directory creation
+absolute path name
