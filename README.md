@@ -1,1 +1,1 @@
-script for creationg directory
+display content

@@ -1,1 +1,1 @@
-absolute path name
+display content command
