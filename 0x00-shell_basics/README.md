@@ -1,1 +1,1 @@
-display content command
+home directory
