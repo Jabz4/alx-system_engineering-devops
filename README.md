@@ -1,1 +1,1 @@
-creating directory command
+script for creationg directory
