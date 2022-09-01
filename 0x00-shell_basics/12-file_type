@@ -1,1 +1,2 @@
-create file
+#!/bin/bash
+touch /tmp/iamafile
