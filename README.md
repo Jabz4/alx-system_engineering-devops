@@ -1,1 +1,1 @@
-command for creating directory
+creating directory command
