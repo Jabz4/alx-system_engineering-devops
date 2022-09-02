@@ -1,1 +1,1 @@
-script to change user
+user name
