@@ -1,1 +1,1 @@
- set to hello
+set mode to hello
