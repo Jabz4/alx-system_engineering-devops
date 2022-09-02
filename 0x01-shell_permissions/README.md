@@ -1,1 +1,1 @@
-user name
+scprit prints all groups.
