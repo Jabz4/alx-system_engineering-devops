@@ -1,0 +1,2 @@
+#!/bin/bash
+grey -y "bin" /etc/passwd
